@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc Biological Science
+  - course: MSc. Biological Science
     institution: BITS-Pilani
     year: 2019
-  - course: BE Electrical and Electronics Engineering
+  - course: B.E. Electrical and Electronics Engineering
     institution: BITS-Pilani
     year: 2019
 
