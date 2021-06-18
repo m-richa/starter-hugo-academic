@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards & Recognition'
 subtitle:
 
 # Date format
@@ -23,21 +23,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://www.coursera.org/account/accomplishments/certificate/9ZQN9HJ72JM8"
-  date_start: "2021-06-25"
+- certificate_url: ""
+  date_start: "2018-05-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Custom and Distributed Training with Tensorflow
-  url: "https://www.coursera.org/account/accomplishments/certificate/9ZQN9HJ72JM8"
-- certificate_url: "https://www.coursera.org/account/accomplishments/certificate/QENKXWKP7RK6"
-  date_end: ""
-  date_start: "2021-06-01"
+  organization: Chair of Computer-Aided Medical Procedures and Augmented Reality (CAMPAR)
+  organization_url:
+  title: International Undergraduate Excellence Award
+  url:
+- certificate_url: ""
+  date_start: "2018-09-01"
   description:
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Custom Models, Layers, and Loss Functions with TensorFlow
-  url: "https://www.coursera.org/account/accomplishments/certificate/QENKXWKP7RK6"
+  organization: Birla institute of Technology and Science
+  organization_url:
+  title: International Programs and Collaborations Division (IPCD) Scholarship
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
 #  date_start: "2020-07-01"
