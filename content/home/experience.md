@@ -29,10 +29,7 @@ experience:
     location: California
     date_start: '2021-06-20'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-
-        * Computer vision model for edge devices
+    description: Computer vision model for edge devices
 
   - title: Software Engineer
     company: HSBC Technology India
@@ -41,7 +38,7 @@ experience:
     location: Hyderabad
     date_start: '2019-07-08'
     date_end: ''
-    description: UK-BUssiness Intelligence, Data Services
+    description: UK Bussiness Intelligence, Data Services
 
   - title: Research Intern
     company: Max Planck Institute for Intelligent Systems
