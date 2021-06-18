@@ -25,7 +25,7 @@ experience:
   - title: Machine Learning Engineer
     company: DeepEdge
     company_url: 'https://www.deepedge.ai/'
-    company_logo: de.png
+    company_logo: de
     location: California
     date_start: '2021-06-20'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Software Engineer
     company: HSBC Technology India
     company_url: 'https://www.hsbc.com/'
-    company_logo: hsbc.png
+    company_logo: hsbc
     location: Hyderabad
     date_start: '2019-07-08'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Research Intern
     company: Max Planck Institute for Intelligent Systems
     company_url: 'https://is.mpg.de/'
-    company_logo: mpi.png
+    company_logo: mpi
     location: Tuebingen, Germany
     date_start: '2019-02-01'
     date_end: '2019-06-15'
@@ -55,7 +55,7 @@ experience:
   - title: Research Intern
     company: CAMP-AR, Technical Institute of Munich
     company_url: 'https://www.tum.de'
-    company_logo: tum.png
+    company_logo: tum
     location: Munich, Germany
     date_start: '2018-07-01'
     date_end: '2018-11-30'
