@@ -1,16 +1,21 @@
 ---
-title: Comparison of methods to produce a two-layered LDI representation from a single RGB image
-summary: One of the major drawbacks of the visualizations used in computer vision is the lack of information about the portion of scene that has been occluded by the foreground objects. Depth maps store the results of a mapping from each pixel to its distance from the camera. Since the pair of RGB image and the depth map store more information than a RGB image itself,they are considered 2.5D. However, a simple depth map fails to alleviate the problem as it stores the values for only
-the visible part of an image. Unlike human beings who are able to perceive the information even if it has been hidden by confidently extrapolating from what is visible, computer vision models are stymied at only what is immediately visible. This has been resolved with other forms of representations of 2D images, one of which is LDI. However getting better LDI predictions from a single RGB image is challenging and we compare two methods in this work on synthetic data.
+title: Learning 3D skin and skeleton models from CT scans for rats
+summary: Computer Tomography scans can be a great resource to not only learn the surface model but to
+learn the shape and location of internal organs and bones. In this work, we will try to learn a
+model for the skin and for a skeleton from rat CT scans. We will also try to achieve a kinematic
+correspondence between the two models. This problem is challenging because we are trying to
+learn shape space from limited data, around 10 CT scans and we start from a preliminary skin
+model which is trained on 2 CT scans and 3 toy scans and a template mesh of the skeleton.
 tags:
 - Theses
-date: "2018-11-27T00:00:00Z"
+
+date: "2019-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: RGB-inpainting results
+  caption: Skeleton registration
   focal_point: Smart
 
 #inks:
@@ -19,7 +24,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-url_pdf: "https://drive.google.com/file/d/1HiDrRXntqTfVe1XkBr4DOHVuG96ppO4t/view?usp=sharing"
+url_pdf: "https://drive.google.com/file/d/1EfoxiKpiZcVgnpwIcqVlDb4v1sxbwFX_/view?usp=sharing"
 #url_slides: ""
 #url_video: ""
 
