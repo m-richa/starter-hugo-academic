@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Theses
+    tag: Theses
   - name: Other
     tag: Demo
 
