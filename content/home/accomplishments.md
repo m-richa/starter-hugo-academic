@@ -46,6 +46,23 @@ item:
 #  organization_url: https://www.datacamp.com
 #  title: 'Object-Oriented Programming in R'
 #  url: ""
+- certificate_url: "https://coursera.org/share/51766af89374f7b403e73a3999afc753"
+  date_end: ""
+  date_start: "2021-06-01"
+  description:
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Advanced Computer Vision with TensorFlow
+  url: "https://coursera.org/share/51766af89374f7b403e73a3999afc753"
+
+- certificate_url: "https://coursera.org/share/51766af89374f7b403e73a3999afc753"
+  date_end: ""
+  date_start: "2021-06-01"
+  description:
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Generative Deep Learning with TensorFlow
+  url: "https://www.coursera.org/account/accomplishments/verify/THPWPN572B5U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
 
 design:
   columns: '2'
