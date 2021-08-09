@@ -22,22 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Machine Learning Engineer
-    company: DeepEdge
+  - title: Research Assistant
+    company: Center for Visual Information Technology, IIIT-Hyderabad
     company_url: 'https://www.deepedge.ai/'
     company_logo: de
-    location: California
-    date_start: '2021-06-20'
+    location: Hyderabad, India
+    date_start: '2021-07-01'
     date_end: ''
-    description: Computer vision model for edge devices
+    description:
 
   - title: Software Engineer
     company: HSBC Technology India
     company_url: 'https://www.hsbc.com/'
     company_logo: hsbc
-    location: Hyderabad
+    location: Hyderabad, India
     date_start: '2019-07-08'
-    date_end: ''
+    date_end: '2021-07-31'
     description: UK Bussiness Intelligence, Data Services
 
   - title: Research Intern
