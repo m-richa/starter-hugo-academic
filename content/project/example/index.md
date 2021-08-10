@@ -12,13 +12,13 @@ image:
   caption: RGB-inpainting results
   focal_point: Smart
 
-#inks:
+inks:
 #- icon: twitter
 #  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+  name: PDF
+  url: https://drive.google.com/file/d/1HiDrRXntqTfVe1XkBr4DOHVuG96ppO4t/view?usp=sharing
 #url_code: ""
-url_pdf: "https://drive.google.com/file/d/1HiDrRXntqTfVe1XkBr4DOHVuG96ppO4t/view?usp=sharing"
+url_pdf: ""
 #url_slides: ""
 #url_video: ""
 
