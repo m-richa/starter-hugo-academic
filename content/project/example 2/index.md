@@ -7,17 +7,17 @@ tags:
 date: "2019-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://drive.google.com/file/d/1EfoxiKpiZcVgnpwIcqVlDb4v1sxbwFX_/view?usp=sharing"
 
 image:
   caption: Skeleton registrations
   focal_point: Smart
 
-inks:
+#links:
 #- icon: twitter
 #  icon_pack: fab
-  name: PDF
-  url: https://drive.google.com/file/d/1EfoxiKpiZcVgnpwIcqVlDb4v1sxbwFX_/view?usp=sharing
+#  name: PDF
+#  url:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
