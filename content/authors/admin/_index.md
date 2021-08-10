@@ -14,14 +14,14 @@ organizations:
   url: https://cvit.iiit.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D computer vision, HCI, and ethics in AI
+bio: ''
 
 # Interests to show in About widget
 interests:
 - Geometric Deep learning
 - Graph ML
 - Computer Vision
-- HCI
+- Creative AI
 
 # Education to show in About widget
 education:
@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-I graduated in 2019 from BITS-Pilani after completing integrated first-degree program in Biological Science and Electrical and Electronics Engineering. After graduation, I worked in the industry as a software engineer at HSBC for 2 years. I am currently working with Dr Avinash Sharma on 4D reconstruction of human body.
+I graduated in 2019 from BITS-Pilani after completing the integrated first-degree program in Biological Science and Electrical and Electronics Engineering. After graduation, I worked in the industry as a software engineer at HSBC for 2 years. I am currently working with Dr Avinash Sharma on 4D reconstruction of human body.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
