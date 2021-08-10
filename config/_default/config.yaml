@@ -5,7 +5,7 @@
 
 title: Richa Mishra # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Richa Mishra' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

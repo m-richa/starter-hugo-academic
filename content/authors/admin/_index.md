@@ -6,21 +6,22 @@ title: Richa Mishra
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Engineer
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: DeepEdge
-  url: https://www.deepedge.ai/
+- name: Center for Visual Information Technology
+  url: https://cvit.iiit.ac.in
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3D computer vision, HCI, and ethics in AI
 
 # Interests to show in About widget
 interests:
+- Geometric Deep learning
+- Graph ML
 - Computer Vision
-- AI for edge devices
-- Product design
+- HCI
 
 # Education to show in About widget
 education:
@@ -67,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently working as a machine learning engineer at DeepEdge.ai...........
+I graduated in 2019 from BITS-Pilani after completing integrated first-degree program in Biological Science and Electrical and Electronics Engineering. After graduation, I worked in the industry as a software engineer at HSBC for 2 years. I am currently working with Dr Avinash Sharma on 4D reconstruction of human body.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
