@@ -18,8 +18,8 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-- Geometric Deep learning
-- Graph ML
+- 3D reconstruction
+- Scene understanding
 - Computer Vision
 - Creative AI
 
